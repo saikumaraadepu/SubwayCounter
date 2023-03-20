@@ -1,0 +1,39 @@
+body{
+    background-image: url("bg-nature.jpg");
+    text-align: center;
+}
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#title{
+    font-size: 40px;
+}
+#count-el{
+    font-size: 60px;
+    padding: 0%;
+    border-radius: 15px;
+    border: 1cm;
+    color: black;
+
+}
+button{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    border: 0ch;
+    border-radius: 15px;
+    padding: 1px 10px;
+    margin: 10px;
+    color: white;
+}
+#increment{
+    background-color: brown;
+}
+#save{
+    background-color: lightgreen;
+}
+#save-el{
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
